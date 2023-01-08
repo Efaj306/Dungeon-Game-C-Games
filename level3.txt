@@ -1,0 +1,14 @@
+14
+12
+XXXXXXXXXXXXXX
+XX..G....G.XXX
+X.....X......X
+X...P....A.XXX
+X...X........X
+X..X...M...XXX
+X..A.....X..XX
+X..S....G....X
+X...XX..M....X
+X.....G....X.X
+X..A.........X
+XXXXXXXXXXXXXX
